@@ -1,22 +1,17 @@
 {
   "todos": [
     {
-      "title": "ватест",
-      "completed": false,
-      "id": 1
-    },
-    {
-      "title": "авd",
+      "title": "но",
       "completed": false,
       "id": 2
     },
     {
-      "title": "ав",
+      "title": "не",
       "completed": false,
       "id": 3
     },
     {
-      "title": "ва",
+      "title": "летомэ",
       "completed": false,
       "id": 4
     },
@@ -26,59 +21,19 @@
       "id": 5
     },
     {
-      "title": "п",
+      "title": "дело",
       "completed": false,
       "id": 6
     },
     {
-      "title": "а",
+      "title": "было",
       "completed": false,
       "id": 7
     },
     {
-      "title": "ап",
+      "title": "зимой",
       "completed": false,
       "id": 8
-    },
-    {
-      "title": "па",
-      "completed": false,
-      "id": 9
-    },
-    {
-      "title": "ап",
-      "completed": false,
-      "id": 10
-    },
-    {
-      "title": "а",
-      "completed": false,
-      "id": 11
-    },
-    {
-      "title": "у",
-      "completed": false,
-      "id": 12
-    },
-    {
-      "title": "фуа",
-      "completed": false,
-      "id": 13
-    },
-    {
-      "title": "фуа",
-      "completed": false,
-      "id": 14
-    },
-    {
-      "title": "ф",
-      "completed": false,
-      "id": 15
-    },
-    {
-      "title": "ау",
-      "completed": false,
-      "id": 16
     }
   ]
 }

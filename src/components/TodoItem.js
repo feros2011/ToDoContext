@@ -1,10 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useTodo } from '../TodoContext';
 
 function TodoItem({ todo }) {
   const [isEditing, setIsEditing] = useState(false);
   const [editText, setEditText] = useState(todo.title);
   const { deleteTodo, editTodo, toggleComplete } = useTodo();
+
+  useEffect(() => {
+    setEditText(todo.title);
+  }, [todo.title]);
 
   const handleEdit = (e) => {
     e.preventDefault();
